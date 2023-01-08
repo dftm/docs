@@ -1,11 +1,17 @@
 ---
-description: I am not sure what is going on 😃, but I've got this.
+description: First seen in https://passo.uno/openai-tech-writing-howto/
 ---
 
-# Testing Git Sync Title
+# The rise of WriterBot
 
-For the GitBook test, and then some.
+##
 
-{% embed url="https://vimeo.com/636725488?embedded=true&owner=28725559&source=video_title" %}
-Just a quick vid I found
-{% endembed %}
+Dec. 3, 2022
+
+There’s been a lot of fuss about [ChatGPT](https://openai.com/blog/chatgpt/), OpenAI’s conversational bot, and its docs capabilities. Some dismissed its skills; others are thinking of selling their possessions and flee to Patagonia. Let’s do something different and entertain a hypothetical scenario where OpenAI will be prepackaged and sold as **WriterBot**. Let’s suppose it’ll be relatively cheap and easy to run (some deep learning software runs on desktop machines after all).What would happen?There’s a [ratio ](https://passo.uno/we-need-more-writing-on-tech-writing/)of 43 software engineers for each technical writer in the US. It’s unrealistic to think that software companies, especially startups, wouldn’t give WriterBot a try. It’s just too tempting. _I_’d do it. There are too few tech writers, and the ones willing to create deeply technical docs from scratch are rare. The market for WriterBot would thus increase exponentially: tuned on existing drafts, a bit like Photoshop’s healing brush, WriterBot would create tech docs where there was not even a prospect of producing them. This is the first positive effect: there would be more technical documentation.In time, those companies would realize that AI generated docs require some sort of _curation_. After all, bots don’t know about semantics. They don’t _care_ because they can’t. WriterBot wouldn’t understand caveats or edge cases, couldn’t take a step back to illustrate how all pieces are connected, nor would be able to create an information architecture that makes sense. Some customers would then request better documentation, written or supervised by humans to ensure precision and offer a prospect of liability. One cannot just blame the algorithm.So startups would hire… editors. Yes, _editors_.Instead of hiring tech writers, startups would get someone on board who can tame the AI engine, organize the content it produces, and feed it with high quality sources. Perhaps even a small team who’d create especially complex content, leaving grunt work to WriterBot. That’s the second positive effect. In fact, writing and maintaining simple docs is not the best part of a tech writer’s job; being a bridge between tech and users is, as is researching complex tech and finding novel ways of explaining it. All else is for the AIs.There are three implications for the scenario I’ve just described:
+
+1. 1.Writers have the responsibility of understanding how AI generated writing works. They should experiment with it and understand how they’d leverage it at work. This includes leading the efforts to develop WriterBot so that it’d be most useful to them.
+2. 2.Writers must [become more strategic about their work](https://passo.uno/posts/computer-aided-technical-writing-is-here-to-stay/) (yes, I mean content strategy). That means considering what value they can bring to an organization willing to use WriterBot. In some cases it’d be editing or quality control. In others, filling gaps with high quality content or information architecture.
+3. 3.The age of the tech writer who just sits and writes release notes or short tutorials is fading away. It’s been eroded by UX writing and content design already. WriterBot would be the coup de grâce for such roles, and rightly so. If anything, the tech writer’s biggest value is their humanity. DevRels already know this.
+
+And that’s the third positive, if ironic, effect: by removing the most repetitive and least engaging bits of the job, WriterBot would allow tech writers to humanize their work and focus on building relationships and improving the way products communicate.One becomes a content strategist only after being freed from menial tasks.\
